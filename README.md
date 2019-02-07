@@ -28,8 +28,11 @@ rm(list=ls())
 "dcmodify", "deductive", "plot3D", "readr","rlist","visdat","DescToolsAddIns",
 "lintools", "lumberjack","ggplotAssist", "tcltk2","rgl","colourpicker",
 "ggExtra", "ggThemeAssist", "shiny", "markdown","bigmemory")
+
 .inst <- .packages %in% installed.packages()
+
 if(length(.packages[!.inst]) > 0) install.packages(.packages[!.inst])
+
 lapply(.packages, require, character.only=TRUE)
 
 
