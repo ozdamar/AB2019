@@ -2,21 +2,30 @@
 AB2019-Ordu- R ile İleri Veri Önişleme
 
 
-## paketler:
+# books
+ 
+### Advanced R by Hadley Wickham
+http://adv-r.had.co.nz/
+### Writing an R book and self-publishing it in Amazon
+https://msperlin.github.io/2017-02-16-Writing-a-book/
+### Advanced R Solutions
+https://bookdown.org/Tazinho/Advanced-R-Solutions/
+### R inferno
+http://www.burns-stat.com/pages/Tutor/R_inferno.pdf
+### Mastering Software Development in R
+https://bookdown.org/rdpeng/RProgDA/
+### R for Data Science
+http://r4ds.had.co.nz/
+### Happy Git and GitHub for the useR
+http://happygitwithr.com/
 
-rm(list=ls())
-.packages = c("RXKCD","beepr","fortunes","Rcmdr", "fun", "plotly", "magrittr", "networkD3", "dygraphs", "stringr", "rebus", "pryr", "car","doBy","lubridate","VIM", "mice", "Amelia","plyr","sqldf", "dplyr", "Hmisc","pastecs","psych", "doBy", "reshape", "dbplyr", "tables", "janitor", "epiDisplay", "summarytools", "gmodels", "questionr", "corrplot", "PerformanceAnalytics", "corrgram", "plotrix","gclus", "polycor", "psych", "ggplot2", "gdata", "foreign", "XLConnect", "WriteXLS", "rjson", "readr", "readxl", "haven","xml2","rvest","jsonlite","DBI", "tidyverse", "hflights", "gapminder", "dplyr", "data.table", "Cairo","rversions", "readr","anytime", "reshape2", "stringr","babynames", "rebus", "stringi","glue","validate", "assertr", "validatetools","errorlocate", "devtools", "cat", "e1071", "hot.deck", "HotDeckImputation", "imputeTS", "mi", "mice", "missForest","MissMech","mtsdi","norm", "VIMGUI", "rattle","yaImpute", "Zelig", "pan", "naniar",  "MissingDataGUI", "htmlwidgets","rpivotTable","sjPlot", "sjmisc","huxtable", "outliers", "OutliersO3", "discretization", "GGally","ggExtra", "ggridges", "MASS", "purrr", "ggpubr", "errorlocate", "funModeling", "addinslist", "anytime","DataLoader", "writexl", "dataPreparation", "DataExplorer","dataCompareR", "DataCombine", "DataClean", "datacheck", "dlookr", "DT", "dtplyr", "editData", "ggeffects", "dcmodify", "deductive", "plot3D", "readr", "rlist", "visdat", "DescToolsAddIns", "lintools", "lumberjack","ggplotAssist", "tcltk2","rgl","colourpicker",
-"ggExtra", "ggThemeAssist", "shiny", "markdown","bigmemory")
+http://www.quantide.com/raccoon-statistical-models-with-r-web-book/
 
-.inst <- .packages %in% installed.packages()
+http://www.quantide.com/rabbit-introduction-to-r/
 
-if(length(.packages[!.inst]) > 0) install.packages(.packages[!.inst])
-
-lapply(.packages, require, character.only=TRUE)
+http://www.quantide.com/ramarro-r-for-developers/
 
 
-source("https://bioconductor.org/biocLite.R")
+http://www.ms.unimelb.edu.au/~apro@unimelb/r-users/icebreakeR.pdf
 
-biocLite("impute")
 
-***
