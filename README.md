@@ -29,6 +29,7 @@ https://livebook.datascienceheroes.com
 ### Happy Git and GitHub for the useR
 http://happygitwithr.com/
 
+### Statistical Models with R.
 http://www.quantide.com/raccoon-statistical-models-with-r-web-book/
 
 
