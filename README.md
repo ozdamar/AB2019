@@ -31,11 +31,6 @@ http://happygitwithr.com/
 
 http://www.quantide.com/raccoon-statistical-models-with-r-web-book/
 
-http://www.quantide.com/rabbit-introduction-to-r/
 
-http://www.quantide.com/ramarro-r-for-developers/
-
-
-http://www.ms.unimelb.edu.au/~apro@unimelb/r-users/icebreakeR.pdf
 
 
