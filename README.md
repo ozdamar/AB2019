@@ -7,7 +7,7 @@ AB2019-Ordu- R ile İleri Veri Önişleme
 ### Advanced R by Hadley Wickham
 http://adv-r.had.co.nz/
 
-### Advanced R Solutions
+##### Advanced R Solutions
 https://bookdown.org/Tazinho/Advanced-R-Solutions/
 ### R inferno
 http://www.burns-stat.com/pages/Tutor/R_inferno.pdf
