@@ -33,5 +33,32 @@ http://happygitwithr.com/
 http://www.quantide.com/raccoon-statistical-models-with-r-web-book/
 
 
+## Package Search 
+### Microsoft R Open:latest packages 
+https://mran.microsoft.com/spotlight/
 
+### Rdrr.io: Cran + bioconductor + Github + R-Forge
+https://rdrr.io/all/
+
+### rOpenSci packages                               
+https://ropensci.org/packages/
+
+### RDocumentation: CRAN + BioConductor + Github
+https://www.rdocumentation.org/
+
+### AWESOME R                                      
+https://awesome-r.com/
+https://github.com/qinwf/awesome-R
+
+### METACRAN
+https://www.r-pkg.org/
+
+### CRANBERRIES
+http://dirk.eddelbuettel.com/cranberries/
+
+### BIOCONDUCTOR
+https://www.bioconductor.org/packages/release/BiocViews.html
+
+### RSTUDIO                             
+https://rviews.rstudio.com/
 
